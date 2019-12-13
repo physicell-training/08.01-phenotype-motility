@@ -10,11 +10,11 @@ Duration: 2:09
 
 ## Slides (in PDF format)
 
-1. **GitHub:** (https://github.com/furkankurtoglu/08.01-phenotype-motility/blob/master/TR-08.01-Motility%20Training.pdf)
+1. **GitHub:** (https://github.com/physicell-training/08.01-phenotype-motility/blob/master/TR-08.01-Motility%20Training.pdf)
 1. **FigShare:** https://figshare.com/articles/TR-08_01-Motility_Training_pdf/11366207
 
 ## Companion code
-https://github.com/furkankurtoglu/08.01-phenotype-motility/tree/master/code/training-model
+https://github.com/physicell-training/08.01-phenotype-motility/tree/master/code/training-model
 
 ## Educational microapps 
 1. trmotility (sample PhysiCell-powered nanoHUB app) https://www.nanohub.org/tools/trmotility 
