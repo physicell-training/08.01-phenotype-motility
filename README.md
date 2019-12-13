@@ -4,8 +4,8 @@ This lesson demonstrates Motility concept in PhysiCell. There is a cloud-hosted 
 ## Video recording of lesson 
 Duration: 2:09
 1. **YouTube** https://drive.google.com/file/d/1OeOcvmxOrUFyXzICjDrKlBB5nUeo7-s_/view?usp=sharing
-1. **FigShare:** https://figshare.com/articles/TR-08_01-Motility_Training_pdf/11366207
-1. **NanoHUB:** https://nanohub.org/resources/trmotility
+1. **FigShare:**
+1. **NanoHUB:** 
 1. **CSBC / PS-ON Network:** 
 
 ## Slides (in PDF format)
