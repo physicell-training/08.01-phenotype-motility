@@ -1,8 +1,8 @@
 # Lesson 08.01 : Motility
-This lesson demonstrates how to use a PhysiCell-powered nanoHUB app. These are cloud-hosted interactive mathematical models created for education or research purposes. 
+This lesson demonstrates Motility concept in PhysiCell. There is a cloud-hosted interactive mathematical model for education purposes. 
 
 ## Video recording of lesson 
-Duration: 
+Duration: 2:09
 1. **YouTube** https://drive.google.com/file/d/1OeOcvmxOrUFyXzICjDrKlBB5nUeo7-s_/view?usp=sharing
 1. **FigShare:** https://figshare.com/articles/TR-08_01-Motility_Training_pdf/11366207
 1. **NanoHUB:** https://nanohub.org/resources/trmotility
@@ -10,11 +10,11 @@ Duration:
 
 ## Slides (in PDF format)
 
-1. **GitHub:** [PDF slides here](https://github.com/physicell-training/02-How-to-nanoHUB/blob/master/02-How-to-nanoHUB.pdf)
+1. **GitHub:** (https://github.com/furkankurtoglu/08.01-phenotype-motility/blob/master/TR-08.01-Motility%20Training.pdf)
 1. **FigShare:** https://figshare.com/articles/TR-08_01-Motility_Training_pdf/11366207
 
 ## Companion code
-can be find in code folder 
+https://github.com/furkankurtoglu/08.01-phenotype-motility/tree/master/code/training-model
 
 ## Educational microapps 
 1. trmotility (sample PhysiCell-powered nanoHUB app) https://www.nanohub.org/tools/trmotility 
